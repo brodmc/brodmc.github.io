@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+I am an Australian IT Business Analyst currently employed in the local government sector. I have extensive experience working in the Telecommunications sector across Australia. I have no interest in doxxing myself because I plan to be extremely **real**.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[eatass@fuck-off.cum](mailto:email@domain.com)
