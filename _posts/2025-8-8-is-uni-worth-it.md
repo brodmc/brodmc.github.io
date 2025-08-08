@@ -6,7 +6,7 @@ If you peruse much of the social media online you will come across a lot of mate
 
 I get that people are trying to ascertain how necessary the effort is that they might need to commit to, so I'll save you the effort:
 
- **yes**
+ **yes**.
 
 Even if it's long and difficult.
 
