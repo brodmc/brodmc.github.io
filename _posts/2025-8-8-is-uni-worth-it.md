@@ -8,9 +8,9 @@ I get that people are trying to ascertain how necessary the effort is that they 
 
  **yes**
 
-Even if it's long and difficult
+Even if it's long and difficult.
 
-Even if you have a friend that *"didn't even use 90% of my degree!"*
+Even if you have a friend that *"didn't even use 90% of my degree!"*.
 
 Even if your personal hobbies have always involved computers... Especially even then. No one gives a shit about your gaming hobbies and no it doesn't translate exactly to IT skills.
 
@@ -32,6 +32,10 @@ I'll give you an idea about some stuff I learned at university that has been cri
 The key thing about all of the above is that if I did not go to university, there's no way that I would have been exposed to those skills and find ways to apply them broadly in my career. This is because in my own self-education, I would have been more focused on *only* the skills I required for a specific job, rather than being exposed to skills and methods outside of my comfort and knowledge zone.
 
 Essentially, university education exposes you to things you never thought you would need to know.
+
+This opens you up to more possibilities because you have a broader skill set.
+
+This is also the main reason why I've worked in many different IT jobs.
 
 food for thought.
 
