@@ -16,7 +16,7 @@ A bit after that there was the digital transformation project where the customer
 
 I could go on and on, but yes, I would agree that most of the IT projects I've worked on have been absolute garbage.
 
-If you work in IT you will work on dumpster fire projects. Should you care if you're in a dumpster fire project? This begs the question - what is the point of working in IT if the projects suck?
+If you work in IT you will work on dumpster fire projects... Which begs the question - what is the point of working in IT if the projects suck?
 
 The point of working in IT is to make good money. There are many types of dumpster fire projects but you need only work ones that you can cope with. 
 
