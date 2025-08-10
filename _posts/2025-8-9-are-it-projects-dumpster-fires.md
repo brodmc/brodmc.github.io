@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are All IT Projects Dumpster Fires?
+title: Are all IT Projects Dumpster Fires?
 ---
 I came across a Reddit thread asking if all IT projects are dumpster fires (with the consensus being yes), and it got me thinking about my experiences across my career.
 
