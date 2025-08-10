@@ -26,7 +26,7 @@ over-promised but sufficient time? Ride that shit out to the deadline then jump 
 
 You don't need to stay for the duration of a project to benefit your career, and the modern day modus operandi of working in IT seems to accept job hopping anyway... So jump ship when you've had your fill!
 
-to the victor go the dumpster fire!
+to the victor goes the dumpster fire!
 
 *Regards,*
 
