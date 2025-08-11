@@ -12,7 +12,7 @@ Even if it's long and difficult.
 
 Even if you have a friend that *"didn't even use 90% of my degree!"*.
 
-Even if your personal hobbies have always involved computers... Especially even then. No one gives a shit about your gaming hobbies and no it doesn't translate exactly to IT skills.
+Even if your personal hobbies have always involved computers... especially even then. No one gives a shit about your gaming hobbies and no it doesn't translate exactly to IT skills.
 
 Aside from the things that people normally tout such as critical thinking etc etc, you get a chance to explore many ways of working and tools that you would otherwise not be exposed to on your own training.
 

@@ -23,7 +23,7 @@ The reason that I think Scrum is fucking stupid is simply because it is an unnec
 + Requests for help can be done via some sort of team chat that is prioritised.
 + Sprint planning can and should be done by an individual by a due date before the next sprint. If someone doesn't do the planning → Lead/PM/PO/Whatever contacts them. If I have a work dependency or need for someone else to know what I'm doing then I will let them know.
 + Showcases should be a voluntary thing for everyone but the lead. I already know what I've achieved for the product, everyone else has already let me know what they've done, so I don't need to watch the reaction of the Product Owner/Manager/Customer. Feedback can flow back through the lead/PM/etc.
-+ Retrospectives in my opinion are a waste of time and more often than not seem to produce reptition or frustration. Can't we have a place to submit improvement proposals or anonymous feedback that makes it directly to management for action? Perhaps the lead generates a user story/issue directly for management that must get addressed as a priority?
++ Retrospectives in my opinion are a waste of time and more often than not seem to produce repetition or frustration. Can't we have a place to submit improvement proposals or anonymous feedback that makes it directly to management for action? Perhaps the lead generates a user story/issue directly for management that must get addressed as a priority?
 
 Can't we all just agree that excessive meetings hamper the progress of delivery and that much of the communication can be done via a system nowadays for those of us that don't wish to communicate constantly with the team?
 

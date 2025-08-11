@@ -16,7 +16,7 @@ A bit after that there was the digital transformation project where the customer
 
 I could go on and on, but yes, I would agree that most of the IT projects I've worked on have been absolute garbage.
 
-If you work in IT you will work on dumpster fire projects... Which begs the question - what is the point of working in IT if the projects suck?
+If you work in IT you will work on dumpster fire projects... which begs the question - what is the point of working in IT if the projects suck?
 
 The point of working in IT is to make good money. There are many types of dumpster fire projects but you need only work ones that you can cope with. 
 
@@ -24,7 +24,7 @@ Under-resourced and over-worked? Jump ship.
 
 over-promised but sufficient time? Ride that shit out to the deadline then jump ship.
 
-You don't need to stay for the duration of a project to benefit your career, and the modern day modus operandi of working in IT seems to accept job hopping anyway... So jump ship when you've had your fill!
+You don't need to stay for the duration of a project to benefit your career, and the modern day modus operandi of working in IT seems to accept job hopping anyway... so jump ship when you've had your fill!
 
 to the victor goes the dumpster fire!
 
